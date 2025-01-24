@@ -33,7 +33,7 @@ class ComposerStaticInit026509606a55be5c56c243e48adc6597
         ),
         'A' => 
         array (
-            'App\\Controller\\' => 15,
+            'App\\' => 4,
         ),
     );
 
@@ -76,9 +76,9 @@ class ComposerStaticInit026509606a55be5c56c243e48adc6597
         array (
             0 => __DIR__ . '/..' . '/nikic/fast-route/src',
         ),
-        'App\\Controller\\' => 
+        'App\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/App/Controller',
+            0 => __DIR__ . '/../..' . '/App',
         ),
     );
 
